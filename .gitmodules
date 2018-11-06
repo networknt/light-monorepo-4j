@@ -1,0 +1,15 @@
+[submodule "light-4j"]
+	path = light-4j
+	url = git@github.com:networknt/light-4j.git
+[submodule "light-rest-4j"]
+	path = light-rest-4j
+	url = git@github.com:networknt/light-rest-4j.git
+[submodule "json-schema-validator"]
+	path = json-schema-validator
+	url = git@github.com:networknt/json-schema-validator.git
+[submodule "light-spa-4j"]
+	path = light-spa-4j
+	url = git@github.com:networknt/light-spa-4j.git
+[submodule "openapi-parser"]
+	path = openapi-parser
+	url = git@github.com:networknt/openapi-parser.git
