@@ -1,4 +1,4 @@
-# light-monorepo-4j test
+# light-monorepo-4j
 Mono-Repository for light-4j
 
 ## Cloning the repos for the first time:
